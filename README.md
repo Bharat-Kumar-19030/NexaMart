@@ -1,6 +1,6 @@
 **NexaMart - E-Portal for Marketing**
 The platform allows users to browse products, add items to cart, and complete purchases, while also providing a seller portal for product management.
-
+**Website Live link**: https://nexamartstore.wuaze.com/ .
 **Project Overview**
 NexaMart is a full-stack e-commerce web application developed as a learning project by BTech CSE students. The platform allows users to browse products, add items to cart, and complete purchases, while also providing a seller portal for product management.
 
